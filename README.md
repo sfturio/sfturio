@@ -30,27 +30,6 @@ Tools:
 - VS Code
 - Chrome DevTools
 
-## Projects
-
-### To-Do List App
-Live Demo: https://sfturio.github.io/todo-list/
-Features:
-- Add tasks
-- Mark as completed
-- Persistent storage with localStorage
-- Clean and responsive UI
-Repo:
-https://github.com/sfturio/todo-list
-
-### IMC Calculator
-Repo:
-https://github.com/sfturio/IMC-calculator
-Features:
-- User input handling
-- Calculation logic
-- Dynamic DOM updates
-More projects coming soon.
-
 ## Current Focus
 - Backend development
 - Node.js
