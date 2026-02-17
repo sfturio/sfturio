@@ -48,12 +48,6 @@ Tools and Practices:
 - Clean Architecture
 - Testing fundamentals
 - Deployment and production environments
-- 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfturio&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfturio&layout=compact&theme=tokyonight)
 
 ## Contact
 GitHub:
