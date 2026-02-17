@@ -24,12 +24,6 @@ Backend (learning and building):
 - Data structures
 - OOP concepts
 
-Tools:
-- Git
-- GitHub
-- VS Code
-- Chrome DevTools
-
 ## Current Focus
 - Backend development
 - Node.js
