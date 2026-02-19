@@ -4,16 +4,8 @@ Fullstack Developer focused on backend. Building real projects and shipping cons
 
 ## Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git,github,react,postgres&theme=dark" />
 </p>
 
 ## Currently
@@ -26,7 +18,15 @@ React · TypeScript · REST APIs · Authentication · PostgreSQL
 
 ## Contact
 
-GitHub: https://github.com/sfturio
-LinkedIn: https://www.linkedin.com/in/sfturio
+<p align="center">
+  <a href="https://github.com/sfturio">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="32"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sfturio">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="32"/>
+  </a>
+</p>
 
-Building every day.
+<p align="center">
+  Building every day.
+</p>
