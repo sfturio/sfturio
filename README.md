@@ -1,60 +1,28 @@
 # Wesley Turio
 
-Fullstack Developer focused on backend, building real projects and shipping consistently.
+Fullstack Developer focused on backend. Building real projects and shipping consistently.
 
-## About me
+## Stack
 
-- Focused on becoming a Fullstack Junior Developer
-- Strong emphasis on JavaScript, Backend, and real-world projects
-- Currently building and improving projects daily
-- Fast learner, highly disciplined, and execution-oriented
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge\&logo=css3)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
 
-## Tech Stack
+## Currently
 
-Frontend:
-- HTML
-- CSS
-- JavaScript
-- DOM manipulation
-- Responsive Design
+Building backend projects with Node.js, APIs, and clean architecture.
 
-Backend (learning and building):
-- JavaScript (Node.js)
-- APIs
-- Data structures
-- OOP concepts
+## Next
 
-## Current Focus
-- Backend development
-- Node.js
-- API building
-- Clean code practices
-  
- ## Next Things to Learn
-Frontend:
-- React
-- TypeScript
-- Component architecture
-- State management
-- Modern frontend patterns
-Backend:
-- Node.js
-- REST API development
-- Authentication (JWT)
-- Database integration (PostgreSQL / MongoDB)
-
-Tools and Practices:
-- Git workflow and collaboration
-- Clean Architecture
-- Testing fundamentals
-- Deployment and production environments
+React · TypeScript · REST APIs · PostgreSQL · Authentication
 
 ## Contact
-GitHub:
-https://github.com/sfturio
-LinkedIn:
-https://www.linkedin.com/in/sfturio
 
----
+GitHub: https://github.com/sfturio
+LinkedIn: https://www.linkedin.com/in/sfturio
 
 Building every day.
