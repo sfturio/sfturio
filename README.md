@@ -4,13 +4,11 @@ Fullstack Developer focused on backend. Building real projects and shipping cons
 
 ## Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge\&logo=css3)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-origin
 
 ## Currently
 
