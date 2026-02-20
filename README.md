@@ -1,6 +1,6 @@
 # Wesley Turio
 
-Fullstack Developer focused on backend. Building real projects and shipping consistently.
+Fullstack Developer focused on backend. 
 
 ## Stack
 
