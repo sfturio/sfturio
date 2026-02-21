@@ -10,11 +10,11 @@ Fullstack Developer focused on backend.
 
 ## Currently
 
-Building backend projects with Node.js, APIs, and clean architecture.
+Building backend projects and improving every day.
 
 ## Next
 
-React · TypeScript · REST APIs · Authentication · PostgreSQL
+PostgreSQL • React • TypeScript • Docker
 
 ## Contact
 
@@ -27,6 +27,3 @@ React · TypeScript · REST APIs · Authentication · PostgreSQL
   </a>
 </p>
 
-<p align="center">
-  Building every day.
-</p>
