@@ -1,6 +1,6 @@
 # Wesley Turio
 
-Backend Developer focused on Node.js, APIs and real-world integrations.
+Backend Developer building REST APIs, authentication systems and AI integrations.
 
 ## Stack
 
