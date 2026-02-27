@@ -15,7 +15,7 @@ Improving every day.
 
 ## Next
 
-PostgreSQL • React • TypeScript • Docker
+PostgreSQL • TypeScript • Docker • AWS
 
 ## Contact
 
