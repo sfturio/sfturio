@@ -1,6 +1,6 @@
 # Wesley Turio
 
-Fullstack Developer focused on backend. 
+Backend Developer focused on Node.js, APIs and real-world integrations.
 
 ## Stack
 
