@@ -11,7 +11,7 @@ Backend Developer focused on Node.js, APIs and real-world integrations.
 
 ## Currently
 
-Building backend projects and improving every day.
+Improving every day.
 
 ## Next
 
