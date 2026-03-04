@@ -14,7 +14,7 @@ Improving every day.
 
 ## Next
 
-AWS • Docker • TypeScript
+AWS • TypeScript
  
 ## Contact
 
