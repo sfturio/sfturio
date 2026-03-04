@@ -5,7 +5,7 @@ Backend Developer building REST APIs, authentication systems and AI integrations
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,git,sql,notion,docker,cs,dotnet,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,postgres,notion,docker,cs,dotnet,ai&theme=dark" />
 </p>
 
 ## Currently
