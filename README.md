@@ -1,29 +1,33 @@
-# Wesley Turio
+# Hi, I'm Wesley Turio
 
-Backend Developer building REST APIs, authentication systems and AI integrations.
+Backend Developer focused on building reliable APIs and authentication flows with Node.js, .NET, and PostgreSQL.
 
-## Stack
+## Featured Projects
+
+- [HubPay](https://github.com/sfturio/HubPay)  
+  Study payment gateway API built with .NET 10, Clean Architecture, idempotent payments, webhooks, and web console.
+- [ai-agent-n8n](https://github.com/sfturio/ai-agent-n8n)  
+  Modular backend AI agent integrated with n8n.
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,git,postgres,notion,docker,cs,dotnet,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,cs,dotnet,postgres,docker,git&theme=dark" />
 </p>
 
-## Currently
+## Current Focus
 
-Improving every day.
+- Improving backend architecture and API design
+- Strengthening testing and clean code practices
+- Expanding cloud skills (AWS)
 
-## Next
-
-AWS • TypeScript
- 
 ## Contact
 
 <p align="center">
   <a href="https://github.com/sfturio">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="32"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/sfturio">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="32"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="32" />
   </a>
 </p>
-
