@@ -20,6 +20,7 @@ Backend Developer focused on building reliable APIs and authentication flows wit
 - Improving backend architecture and API design
 - Strengthening testing and clean code practices
 - Expanding cloud skills (AWS)
+- Improving everyday
 
 ## Contact
 
