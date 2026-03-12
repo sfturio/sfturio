@@ -1,4 +1,4 @@
-# Hi 👋, I'm Wesley Turio 
+# Hi, I'm Wesley Turio 👋
 
 Backend Developer focused on Node.js and .NET, building REST APIs and backend projects with real-world architecture patterns.
 
