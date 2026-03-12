@@ -1,34 +1,39 @@
 # Hi, I'm Wesley Turio
 
-Backend Developer focused on building reliable APIs and authentication flows with Node.js, .NET, and PostgreSQL.
+Backend Developer focused on Node.js and .NET, building REST APIs and backend projects with real-world architecture patterns.
+
+## Summary
+
+- Consistent learner preparing for a backend developer role
+- Hands-on experience with Node.js, ASP.NET Core, PostgreSQL, and API authentication flows
+- Based in Brazil
+
+## Technical Skills
+
+- Backend: Node.js, Express.js, ASP.NET Core, REST APIs
+- Database: PostgreSQL, SQL, Entity Framework Core
+- Architecture and Concepts: Clean Architecture, Layered Architecture, JWT, Idempotency
+- Tools: Git, GitHub, n8n, AI-assisted development
+- Frontend (basic): JavaScript, HTML, CSS
 
 ## Featured Projects
 
 - [HubPay](https://github.com/sfturio/HubPay)  
-  Study payment gateway API built with .NET 10, Clean Architecture, idempotent payments, webhooks, and web console.
+  Mini payment gateway with .NET 10, Clean Architecture, payment lifecycle, idempotency, and PostgreSQL with EF Core.  
+  Live Demo: [hubpay.onrender.com](https://hubpay.onrender.com/) | Docs: [sfturio.github.io/HubPay](https://sfturio.github.io/HubPay/)
+
 - [ai-agent-n8n](https://github.com/sfturio/ai-agent-n8n)  
-  Modular backend AI agent integrated with n8n.
+  Node.js + Express API integrated with n8n webhooks for automation and structured AI responses.  
+  Live Demo: [ai-agent-n8n-zefs.onrender.com](https://ai-agent-n8n-zefs.onrender.com/) | Docs: [sfturio.github.io/ai-agent-n8n](https://sfturio.github.io/ai-agent-n8n/)
 
-## Tech Stack
+- [user-auth-api-postgresql](https://github.com/sfturio/user-auth-api-postgresql)  
+  User authentication API with secure password hashing (bcrypt), JWT login flow, and PostgreSQL.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,cs,dotnet,postgres,docker,git&theme=dark" />
-</p>
-
-## Current Focus
-
-- Improving backend architecture and API design
-- Strengthening testing and clean code practices
-- Expanding cloud skills (AWS)
-- Improving everyday
+- [weather-api](https://github.com/sfturio/weather-api)  
+  REST API integration project using Express + Axios.
 
 ## Contact
 
-<p align="center">
-  <a href="https://github.com/sfturio">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/sfturio">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="32" />
-  </a>
-</p>
+- GitHub: [github.com/sfturio](https://github.com/sfturio)
+- LinkedIn: [linkedin.com/in/sfturio](https://linkedin.com/in/sfturio/)
+- Email: turio897@hotmail.com
