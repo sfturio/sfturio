@@ -5,7 +5,7 @@ Building clean and scalable backend systems with real-world architecture pattern
 
 ---
 
-### ⚡ Tech  
+### Tech  
 ![Node](https://img.shields.io/badge/Node.js-Backend-339933?style=flat&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-Backend-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -14,7 +14,7 @@ Building clean and scalable backend systems with real-world architecture pattern
 
 ---
 
-### 🚀 Projects  
+### Projects  
 
 **💳 HubPay — Payment Gateway API**  
 .NET • Clean Architecture • Payment lifecycle • Idempotency  
