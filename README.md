@@ -1,32 +1,34 @@
-﻿# Wesley Turio  
-**Backend Developer | Node.js • .NET • REST APIs**
+# Hi, I'm Wesley Turio
 
-Building clean and scalable backend systems with real-world architecture patterns.
+Backend Developer focused on Node.js and .NET, building REST APIs and backend projects with real-world architecture patterns.
 
----
+## Summary
 
-### Tech  
-Node.js • Express • ASP.NET Core • PostgreSQL  
-Entity Framework Core • REST APIs • JWT • Clean Architecture
+- Consistent learner 
+- Based in Brazil
+- Hands-on experience with Node.js, ASP.NET Core, PostgreSQL, and API authentication flows
 
----
+## Technical Skills
 
-### Projects  
+- Backend: Node.js, Express.js, ASP.NET Core, REST APIs
+- Database: PostgreSQL, SQL, Entity Framework Core
+- Architecture and Concepts: Clean Architecture, Layered Architecture, JWT, Idempotency
+- Tools: Git, GitHub, n8n, AI-assisted development
+- Frontend: JavaScript, HTML, CSS
 
-**💳 HubPay — Payment Gateway API**  
-.NET • Clean Architecture • Payment lifecycle • Idempotency  
-🔗 https://hubpay.onrender.com  
-📄 https://sfturio.github.io/HubPay  
+## Featured Projects
 
-**🤖 AI Automation Agent**  
-Node.js API integrated with n8n automation workflows  
-🔗 https://ai-agent-n8n-zefs.onrender.com  
-📄 https://sfturio.github.io/ai-agent-n8n  
+- 💳[HubPay](https://github.com/sfturio/HubPay)  
+  Mini payment gateway with .NET 10, Clean Architecture, payment lifecycle, idempotency, and PostgreSQL with EF Core.  
+  Live Demo: [hubpay.onrender.com](https://hubpay.onrender.com/) | Docs: [sfturio.github.io/HubPay](https://sfturio.github.io/HubPay/)
 
----
+- 🤖[ai-agent-n8n](https://github.com/sfturio/ai-agent-n8n)  
+  Node.js + Express API integrated with n8n webhooks for automation and structured AI responses.  
+  Live Demo: [ai-agent-n8n-zefs.onrender.com](https://ai-agent-n8n-zefs.onrender.com/) | Docs: [sfturio.github.io/ai-agent-n8n](https://sfturio.github.io/ai-agent-n8n/)
 
 ### 📫 Contact  
 GitHub → https://github.com/sfturio  
-LinkedIn → https://linkedin.com/in/sfturio  
+LinkedIn → https://linkedin.com/in/sfturio 
+Email → turio897@hotmail.com
 
 *Open to Junior Backend Developer opportunities.*
