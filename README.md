@@ -26,12 +26,6 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
   Node.js + Express API integrated with n8n webhooks for automation and structured AI responses.  
   Live Demo: [ai-agent-n8n-zefs.onrender.com](https://ai-agent-n8n-zefs.onrender.com/) | Docs: [sfturio.github.io/ai-agent-n8n](https://sfturio.github.io/ai-agent-n8n/)
 
-- [user-auth-api-postgresql](https://github.com/sfturio/user-auth-api-postgresql)  
-  User authentication API with secure password hashing (bcrypt), JWT login flow, and PostgreSQL.
-
-- [weather-api](https://github.com/sfturio/weather-api)  
-  REST API integration project using Express + Axios.
-
 ## Contact
 
 - GitHub: [github.com/sfturio](https://github.com/sfturio)
