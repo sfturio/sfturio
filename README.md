@@ -13,12 +13,12 @@ Entity Framework Core • REST APIs • JWT • Clean Architecture
 
 ### Projects  
 
-**HubPay — Payment Gateway API**  
+**💳 HubPay — Payment Gateway API**  
 .NET • Clean Architecture • Payment lifecycle • Idempotency  
 🔗 https://hubpay.onrender.com  
 📄 https://sfturio.github.io/HubPay  
 
-**AI Automation Agent**  
+**🤖 AI Automation Agent**  
 Node.js API integrated with n8n automation workflows  
 🔗 https://ai-agent-n8n-zefs.onrender.com  
 📄 https://sfturio.github.io/ai-agent-n8n  
