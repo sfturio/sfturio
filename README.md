@@ -1,4 +1,4 @@
-# Hi, I'm Wesley Turio
+# Hi 👋, I'm Wesley Turio 
 
 Backend Developer focused on Node.js and .NET, building REST APIs and backend projects with real-world architecture patterns.
 
@@ -27,8 +27,8 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
   Live Demo: [ai-agent-n8n-zefs.onrender.com](https://ai-agent-n8n-zefs.onrender.com/) | Docs: [sfturio.github.io/ai-agent-n8n](https://sfturio.github.io/ai-agent-n8n/)
 
 ### 📫 Contact  
-GitHub → https://github.com/sfturio  
-LinkedIn → https://linkedin.com/in/sfturio 
-Email → turio897@hotmail.com
+- GitHub → https://github.com/sfturio  
+- LinkedIn → https://linkedin.com/in/sfturio 
+- Email → turio897@hotmail.com
 
 *Open to Junior Backend Developer opportunities.*
