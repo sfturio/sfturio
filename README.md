@@ -14,7 +14,7 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 - Database: PostgreSQL, SQL, Entity Framework Core
 - Architecture and Concepts: Clean Architecture, Layered Architecture, JWT, Idempotency
 - Tools: Git, GitHub, n8n, AI-assisted development
-- Frontend (basic): JavaScript, HTML, CSS
+- Frontend: JavaScript, HTML, CSS
 
 ## Featured Projects
 
