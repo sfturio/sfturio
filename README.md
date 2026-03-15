@@ -5,7 +5,6 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 ## Summary
 
 - Consistent learner 
-- Based in Brazil
 - Hands-on experience with Node.js, ASP.NET Core, PostgreSQL, and API authentication flows
 
 ## Technical Skills
