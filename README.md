@@ -30,4 +30,3 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 - LinkedIn → https://linkedin.com/in/sfturio 
 - Email → turio897@hotmail.com
 
-*Open to Junior Backend Developer opportunities.*
