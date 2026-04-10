@@ -1,10 +1,10 @@
-# Hi, I'm Wesley Turio 👋
+﻿# Wesley Turio
 
 Backend Developer focused on Node.js and .NET, building REST APIs and backend projects with real-world architecture patterns.
 
 ## Summary
 
-- Consistent learner 
+- Consistent learner
 - Hands-on experience with Node.js, ASP.NET Core, PostgreSQL, and API authentication flows
 
 ## Technical Skills
@@ -17,16 +17,16 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 
 ## Featured Projects
 
-- 💳[HubPay](https://github.com/sfturio/HubPay)  
-  Mini payment gateway with .NET 10, Clean Architecture, payment lifecycle, idempotency, and PostgreSQL with EF Core.  
+- [HubPay](https://github.com/sfturio/HubPay)
+  Mini payment gateway with .NET 10, Clean Architecture, payment lifecycle, idempotency, and PostgreSQL with EF Core.
   Live Demo: [hubpay.onrender.com](https://hubpay.onrender.com/) | Docs: [sfturio.github.io/HubPay](https://sfturio.github.io/HubPay/)
 
-- 🤖[ai-agent-n8n](https://github.com/sfturio/ai-agent-n8n)  
-  Node.js + Express API integrated with n8n webhooks for automation and structured AI responses.  
+- [ai-agent-n8n](https://github.com/sfturio/ai-agent-n8n)
+  Node.js + Express API integrated with n8n webhooks for automation and structured AI responses.
   Live Demo: [ai-agent-n8n-zefs.onrender.com](https://ai-agent-n8n-zefs.onrender.com/) | Docs: [sfturio.github.io/ai-agent-n8n](https://sfturio.github.io/ai-agent-n8n/)
 
-### 📫 Contact  
-- GitHub → https://github.com/sfturio  
-- LinkedIn → https://linkedin.com/in/sfturio 
-- Email → turio897@hotmail.com
+## Contact
 
+- GitHub: [github.com/sfturio](https://github.com/sfturio)
+- LinkedIn: [linkedin.com/in/sfturio](https://linkedin.com/in/sfturio)
+- Email: turio897@hotmail.com
