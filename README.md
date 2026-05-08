@@ -14,7 +14,7 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![ASP.NET%20Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![REST%20APIs](https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat&logo=fastapi&logoColor=white)
-![JWT%20Authentication](https://img.shields.io/badge/JWT%20Authentication-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![JWT%20Authentication](https://img.shields.io/badge/JWT%20Authentication-111827?style=flat&logoColor=white)
 
 **Database**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -32,7 +32,7 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![AI--assisted%20development](https://img.shields.io/badge/AI--assisted%20development-111827?style=flat&logo=openai&logoColor=white)
+![AI--assisted%20development](https://img.shields.io/badge/AI--assisted%20development-111827?style=flat&logoColor=white)
 
 **Frontend**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
