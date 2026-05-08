@@ -40,3 +40,4 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 - GitHub: [github.com/sfturio](https://github.com/sfturio)
 - LinkedIn: [linkedin.com/in/sfturio](https://linkedin.com/in/sfturio)
 - Email: turio897@hotmail.com
+- WhatsApp: (51) 98921-4420
