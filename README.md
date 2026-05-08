@@ -14,7 +14,6 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="26" />
 <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="26" />
 <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" height="26" />
-<img alt="JWT Authentication" src="https://img.shields.io/badge/JWT%20Authentication-111827?style=for-the-badge&logoColor=white" height="26" />
 
 **Database**  
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="26" />
