@@ -29,10 +29,10 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="26" />
 
 **AI & Automation**  
-<img alt="AI-assisted development" src="https://img.shields.io/badge/AI--assisted%20development-111827?style=for-the-badge" height="26" />
-<img alt="AI Automation" src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge" height="26" />
-<img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" height="26" />
-<img alt="n8n" src="https://img.shields.io/badge/n8n-111827?style=for-the-badge" height="26" />
+<img alt="AI-assisted development" src="https://img.shields.io/badge/AI--assisted%20development-4F46E5?style=for-the-badge" height="26" />
+<img alt="AI Automation" src="https://img.shields.io/badge/AI%20Automation-0EA5E9?style=for-the-badge" height="26" />
+<img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge" height="26" />
+<img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" height="26" />
 
 **Frontend**  
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" height="26" />
