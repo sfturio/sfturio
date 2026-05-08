@@ -35,16 +35,6 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="26" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="26" />
 
-## Featured Projects
-
-- [HubPay](https://github.com/sfturio/HubPay)
-  Mini payment gateway with .NET 10, Clean Architecture, payment lifecycle, idempotency, and PostgreSQL with EF Core.
-  Live Demo: [hubpay.onrender.com](https://hubpay.onrender.com/) | Docs: [sfturio.github.io/HubPay](https://sfturio.github.io/HubPay/)
-
-- [ai-agent-n8n](https://github.com/sfturio/ai-agent-n8n)
-  Node.js + Express API integrated with n8n webhooks for automation and structured AI responses.
-  Live Demo: [ai-agent-n8n-zefs.onrender.com](https://ai-agent-n8n-zefs.onrender.com/) | Docs: [sfturio.github.io/ai-agent-n8n](https://sfturio.github.io/ai-agent-n8n/)
-
 ## Contact
 
 - GitHub: [github.com/sfturio](https://github.com/sfturio)
