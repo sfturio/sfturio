@@ -9,11 +9,35 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 
 ## Technical Skills
 
-- Backend: Node.js, Express.js, ASP.NET Core, REST APIs
-- Database: PostgreSQL, SQL, Entity Framework Core
-- Architecture and Concepts: Clean Architecture, Layered Architecture, JWT, Idempotency
-- Tools: Git, GitHub, n8n, AI-assisted development
-- Frontend: JavaScript, HTML, CSS
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![ASP.NET%20Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![REST%20APIs](https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat&logo=fastapi&logoColor=white)
+![JWT%20Authentication](https://img.shields.io/badge/JWT%20Authentication-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=sqlite&logoColor=white)
+![Entity%20Framework%20Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Architecture**  
+![Clean%20Architecture](https://img.shields.io/badge/Clean%20Architecture-1F2937?style=flat)
+![Layered%20Architecture](https://img.shields.io/badge/Layered%20Architecture-374151?style=flat)
+![Idempotency](https://img.shields.io/badge/Idempotency-0F766E?style=flat)
+![API%20Design](https://img.shields.io/badge/API%20Design-1D4ED8?style=flat)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![AI--assisted%20development](https://img.shields.io/badge/AI--assisted%20development-111827?style=flat&logo=openai&logoColor=white)
+
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## Featured Projects
 
