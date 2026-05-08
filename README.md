@@ -23,7 +23,6 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 **Architecture**  
 ![Clean%20Architecture](https://img.shields.io/badge/Clean%20Architecture-1F2937?style=flat)
 ![Layered%20Architecture](https://img.shields.io/badge/Layered%20Architecture-374151?style=flat)
-![API%20Design](https://img.shields.io/badge/API%20Design-1D4ED8?style=flat)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
