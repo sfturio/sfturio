@@ -28,7 +28,12 @@ Backend Developer focused on Node.js and .NET, building REST APIs and backend pr
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="26" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="26" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="26" />
-<img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="26" />
+
+**AI & Automation**  
+<img alt="AI-assisted development" src="https://img.shields.io/badge/AI--assisted%20development-111827?style=for-the-badge" height="26" />
+<img alt="AI Automation" src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge" height="26" />
+<img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" height="26" />
+<img alt="n8n" src="https://img.shields.io/badge/n8n-111827?style=for-the-badge" height="26" />
 
 **Frontend**  
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" height="26" />
