@@ -1,7 +1,5 @@
 ﻿# Wesley Turio
 
-Backend Developer focused on Node.js and .NET, building REST APIs and backend projects with real-world architecture patterns.
-
 ## Summary
 
 - Consistent learner
